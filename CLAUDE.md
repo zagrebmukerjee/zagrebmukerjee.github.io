@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Zagreb Mukerjee's personal academic site (https://zagrebmukerjee.github.io), built from the **Academic Pages** Jekyll template (a detached fork of Minimal Mistakes). Almost all real content lives in `_config.yml` (site + sidebar author info) and `_pages/about.md`; most other pages/collections are still template sample content.
+Zagreb Mukerjee's personal academic site (https://zagrebmukerjee.com), built from the **Academic Pages** Jekyll template (a detached fork of Minimal Mistakes). Almost all real content lives in `_config.yml` (site + sidebar author info) and `_pages/about.md`; most other pages/collections are still template sample content.
 
 The site is currently consolidated into a **single CV-style page**: `_pages/about.md` has `permalink: /` with sections Research (Working Papers / Work in Progress) → Dissertation Committee → Teaching → CV. The top nav in `_data/navigation.yml` is intentionally empty (entries commented out). To add a section back as its own page, re-enable its entry in `navigation.yml`.
 
